@@ -1,0 +1,16 @@
+<div class="Log-In">
+  <h1>Log In</h1>
+  <p>CI</p>
+  <input type="text" [(ngModel)]="getUsuario().Carnet" />
+  <p>Contraseña</p>
+  <input [type]="getMostrarContrasena() ? 'text' : 'password'" [(ngModel)]="getUsuario().Contrasena" />
+  <button (click)="alternarMostrarContrasena()">
+    {{ getMostrarContrasena() ? 'Ocultar Contraseña' : 'Mostrar Contraseña' }}
+  </button>
+
+  <button (click)="verificarCredenciales()" [disabled]="!getUsuario().Carnet || !getUsuario().Contrasena">Iniciar Sesion</button>
+  @if(getMensaje()){
+  <p>{{getMensaje()}}</p>
+  }
+  <button [routerLink]="['/crear-usuario']">Crear Usuario</button>
+</div>

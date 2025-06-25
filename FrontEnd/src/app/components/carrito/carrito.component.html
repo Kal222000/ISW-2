@@ -1,0 +1,26 @@
+<div class="carrito">
+  <h2>📚 Libros en el Carrito</h2>
+
+  @if (libros.length === 0) {
+  <p>No hay libros en el carrito.</p>
+  <button [routerLink]="['/pagina-principal']">← Volver a la biblioteca</button>
+  }
+
+  @for (libro of libros; track libro.id) {
+  <div class="libro">
+    <div>
+      <h3>{{ libro.titulo }}</h3>
+      <p>{{ libro.autor }}</p>
+    </div>
+    <button (click)="eliminarDelCarrito(libro)">Eliminar</button>
+  </div>
+  }
+
+  @if (libros.length > 0) {
+  <div class="acciones">
+    <button [routerLink]="['/pagina-principal']">← Seguir explorando</button>
+  </div>
+  }
+</div>
+
+

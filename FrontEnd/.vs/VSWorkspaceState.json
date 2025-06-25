@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\carrito",
+    "\\src\\app\\components\\crear-usuario",
+    "\\src\\app\\components\\historial",
+    "\\src\\app\\components\\log-in",
+    "\\src\\app\\components\\pagina-principal",
+    "\\src\\app\\services"
+  ],
+  "PreviewInSolutionExplorer": false
+}

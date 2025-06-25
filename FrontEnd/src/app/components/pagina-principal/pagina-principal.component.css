@@ -1,0 +1,140 @@
+.pagina-principal {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  color: #333;
+}
+
+.encabezado {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+  .encabezado button {
+    background-color: #4a90e2;
+    border: none;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+
+    .encabezado button:hover {
+      background-color: #357abd;
+    }
+
+.busqueda {
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+  .busqueda input[type="text"] {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 25px;
+    transition: border-color 0.3s ease;
+    outline: none;
+  }
+
+    .busqueda input[type="text"]:focus {
+      border-color: #4a90e2;
+    }
+
+.lista-libros {
+  min-height: 472px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.libro {
+  padding: 15px 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.07);
+  transition: box-shadow 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+  .libro > div {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .libro button {
+    background-color: #28a745; /* Verde bootstrap */
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+    .libro button:hover {
+      background-color: #218838; /* Verde más oscuro al pasar el mouse */
+    }
+
+  .libro:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.12);
+  }
+
+  .libro h3 {
+    margin: 0 0 6px;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+
+  .libro p {
+    margin: 0;
+    color: #666;
+    font-style: italic;
+  }
+
+.paginacion {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+  .paginacion button {
+    background-color: #e0e0e0;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background-color 0.3s ease;
+  }
+
+    .paginacion button:hover:not(:disabled) {
+      background-color: #b0c4de;
+    }
+
+    .paginacion button:disabled {
+      cursor: not-allowed;
+      opacity: 0.5;
+    }
+
+    .paginacion button.activo {
+      background-color: #4a90e2;
+      color: white;
+      font-weight: 600;
+      cursor: default;
+    }

@@ -1,0 +1,55 @@
+<div class="pagina-principal">
+
+  @if(getMensajeAlerta()) {
+  <div class="popup-alerta">
+    <p>{{ getMensajeAlerta() }}</p>
+    <button (click)="cerrarAlerta()">X</button>
+  </div>
+  }
+
+  <div class="encabezado">
+    <button [routerLink]="['/carrito']">🛒 Carrito</button>
+    <button [routerLink]="['/historial']">📚 Historial</button>
+  </div>
+
+  <div class="busqueda">
+    <input type="text" [(ngModel)]="terminoBusqueda" placeholder="Buscar libros por título o autor..." />
+    <button (click)="buscarLibros()">🔍 Buscar</button>
+  </div>
+
+  <div class="lista-libros">
+    @for(libro of getLibrosMostrados(); track libro.id) {
+    <div class="libro">
+      <div>
+        <h3>{{ libro.titulo }}</h3>
+        <p>{{ libro.autor }}</p>
+      </div>
+      <button (click)="agregarAlCarrito(libro)">Agregar al Carrito</button>
+    </div>
+    }
+
+    @if(getLibrosMostrados().length === 0) {
+    <p>No se encontraron resultados.</p>
+    }
+  </div>
+
+  <div class="paginacion">
+    <button (click)="irAPagina(getPaginaActual() - 1)" [disabled]="getPaginaActual() === 1">Anterior</button>
+
+    @for(p of getPaginas(); track p) {
+    <button [class.activo]="p === getPaginaActual()"
+            (click)="irAPagina(p)">
+      {{ p }}
+    </button>
+    }
+
+    <button (click)="irAPagina(getPaginaActual() + 1)" [disabled]="getPaginaActual() === getPaginas().length">Siguiente</button>
+  </div>
+  @if(mensajeError) {
+  <div class="popup-error">
+    <p>{{ mensajeError }}</p>
+    <button (click)="mensajeError = ''">X</button>
+  </div>
+  }
+
+</div>
