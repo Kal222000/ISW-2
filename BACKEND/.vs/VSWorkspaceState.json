@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controladores",
+    "\\Datos",
+    "\\Datos\\Mongo",
+    "\\Repositorios",
+    "\\Repositorios\\Interfaces",
+    "\\Servicios",
+    "\\Servicios\\Interfaces"
+  ],
+  "SelectedNode": "\\Datos\\Mongo\\MongoConexion.cs",
+  "PreviewInSolutionExplorer": false
+}
