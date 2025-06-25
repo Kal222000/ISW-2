@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\TestLibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestLibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\TestUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\DTOs\\LibroBarraDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\LibroBarraDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\Metodos\\MString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Metodos\\MString.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test.csproj",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\Test.csproj",
+              "RelativeToolTip": "Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T21:32:40.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestLibro.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\TestLibro.cs",
+              "RelativeDocumentMoniker": "TestLibro.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\TestLibro.cs",
+              "RelativeToolTip": "TestLibro.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:18:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroBarraDTO.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\DTOs\\LibroBarraDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LibroBarraDTO.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\DTOs\\LibroBarraDTO.cs",
+              "RelativeToolTip": "DTOs\\LibroBarraDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:13:51.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\TestUsuario.cs",
+              "RelativeDocumentMoniker": "TestUsuario.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\TestUsuario.cs",
+              "RelativeToolTip": "TestUsuario.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:57:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MString.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\Metodos\\MString.cs",
+              "RelativeDocumentMoniker": "Metodos\\MString.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\Test\\Metodos\\MString.cs",
+              "RelativeToolTip": "Metodos\\MString.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:47:19.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
