@@ -69,7 +69,7 @@ export class PaginaPrincipalComponent implements OnInit {
   public set mensajeError(valor: string) {
     this._mensajeError = valor;
   }
-  
+
   constructor(
     private carritoService: CarritoService,
     private librosService: LibrosService
@@ -80,7 +80,7 @@ export class PaginaPrincipalComponent implements OnInit {
       next: (libros) => {
         this.libros = libros;
         console.log('Libros cargados:', this.libros);
-        this.buscarLibros(); 
+        this.buscarLibros();
       },
       error: (error) => {
         this._mensajeError = error.error?.message || 'No se pudieron cargar los libros desde el servidor.';
@@ -140,5 +140,11 @@ export class PaginaPrincipalComponent implements OnInit {
     if (numero < 1 || numero > this.paginas.length) return;
     this.paginaActual = numero;
     this.buscarLibros();
+  }
+
+  MarcarFavorito(Libro : LibroDTO){
+    this.carritoService.MarcarFavorito(Libro).subscribe({
+
+    })
   }
 }

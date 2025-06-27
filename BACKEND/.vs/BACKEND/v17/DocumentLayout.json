@@ -1,66 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\",
+  "WorkspaceRootPath": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Datos\\Mongo\\MongoConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datos\\Mongo\\MongoConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Datos\\SQL\\SQLConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datos\\SQL\\SQLConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Repositorios\\LibroRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositorios\\LibroRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\LibroServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Servicios\\LibroServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\Interfaces\\ILibroServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Servicios\\Interfaces\\ILibroServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Envia\\LibroDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\Envia\\LibroDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Controladores\\LibroControlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controladores\\LibroControlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\UsuarioServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Servicios\\UsuarioServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Recibe\\NuevoUsuarioDTO .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\DTO\\Recibe\\NuevoUsuarioDTO .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\Recibe\\NuevoUsuarioDTO .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Envia\\DatosUsuarioDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\Envia\\DatosUsuarioDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\Datos\\Mongo\\MongoConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datos\\Mongo\\MongoConexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\Validaciones.cs\\UsuarioValidaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Servicios\\Validaciones.cs\\UsuarioValidaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\Controladores\\LibroControlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controladores\\LibroControlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Repositorios\\UsuarioRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositorios\\UsuarioRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Controladores\\UsuarioControlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controladores\\UsuarioControlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\DTO\\Recibe\\LibroActualizarDTO.CS||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\Recibe\\LibroActualizarDTO.CS||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,191 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuevoUsuarioDTO .cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\DTO\\Recibe\\NuevoUsuarioDTO .cs",
+              "RelativeDocumentMoniker": "DTO\\Recibe\\NuevoUsuarioDTO .cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\DTO\\Recibe\\NuevoUsuarioDTO .cs",
+              "RelativeToolTip": "DTO\\Recibe\\NuevoUsuarioDTO .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:43:00.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-25T21:50:08.642Z",
+              "Title": "MongoConexion.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\Datos\\Mongo\\MongoConexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Mongo\\MongoConexion.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\Datos\\Mongo\\MongoConexion.cs",
+              "RelativeToolTip": "Datos\\Mongo\\MongoConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:41:27.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SQLConexion.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Datos\\SQL\\SQLConexion.cs",
-              "RelativeDocumentMoniker": "Datos\\SQL\\SQLConexion.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Datos\\SQL\\SQLConexion.cs",
-              "RelativeToolTip": "Datos\\SQL\\SQLConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAACGAAAAAAAAAA==",
+              "Title": "LibroControlador.cs",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\Controladores\\LibroControlador.cs",
+              "RelativeDocumentMoniker": "Controladores\\LibroControlador.cs",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\Controladores\\LibroControlador.cs",
+              "RelativeToolTip": "Controladores\\LibroControlador.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T21:49:37.581Z",
+              "WhenOpened": "2025-06-26T22:12:58.775Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LibroRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Repositorios\\LibroRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\LibroRepositorio.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Repositorios\\LibroRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\LibroRepositorio.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:37:10.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MongoConexion.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Datos\\Mongo\\MongoConexion.cs",
-              "RelativeDocumentMoniker": "Datos\\Mongo\\MongoConexion.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Datos\\Mongo\\MongoConexion.cs",
-              "RelativeToolTip": "Datos\\Mongo\\MongoConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T06:36:31.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ILibroServicio.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\Interfaces\\ILibroServicio.cs",
-              "RelativeDocumentMoniker": "Servicios\\Interfaces\\ILibroServicio.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\Interfaces\\ILibroServicio.cs",
-              "RelativeToolTip": "Servicios\\Interfaces\\ILibroServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T05:55:31.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LibroServicio.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\LibroServicio.cs",
-              "RelativeDocumentMoniker": "Servicios\\LibroServicio.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\LibroServicio.cs",
-              "RelativeToolTip": "Servicios\\LibroServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T05:54:54.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LibroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Envia\\LibroDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\Envia\\LibroDTO.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Envia\\LibroDTO.cs",
-              "RelativeToolTip": "DTO\\Envia\\LibroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T05:54:28.818Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAUAAAAAAAAAA==",
+              "Title": "LibroActualizarDTO.CS",
+              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\DTO\\Recibe\\LibroActualizarDTO.CS",
+              "RelativeDocumentMoniker": "DTO\\Recibe\\LibroActualizarDTO.CS",
+              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\FINAL2\\ISW-2\\BACKEND\\DTO\\Recibe\\LibroActualizarDTO.CS",
+              "RelativeToolTip": "DTO\\Recibe\\LibroActualizarDTO.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:03:15.929Z",
+              "WhenOpened": "2025-06-26T21:46:43.254Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LibroControlador.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Controladores\\LibroControlador.cs",
-              "RelativeDocumentMoniker": "Controladores\\LibroControlador.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Controladores\\LibroControlador.cs",
-              "RelativeToolTip": "Controladores\\LibroControlador.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T05:53:02.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsuarioValidaciones.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\Validaciones.cs\\UsuarioValidaciones.cs",
-              "RelativeDocumentMoniker": "Servicios\\Validaciones.cs\\UsuarioValidaciones.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\Validaciones.cs\\UsuarioValidaciones.cs",
-              "RelativeToolTip": "Servicios\\Validaciones.cs\\UsuarioValidaciones.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T03:18:59.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsuarioServicio.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\UsuarioServicio.cs",
-              "RelativeDocumentMoniker": "Servicios\\UsuarioServicio.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Servicios\\UsuarioServicio.cs",
-              "RelativeToolTip": "Servicios\\UsuarioServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:11:32.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "NuevoUsuarioDTO .cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Recibe\\NuevoUsuarioDTO .cs",
-              "RelativeDocumentMoniker": "DTO\\Recibe\\NuevoUsuarioDTO .cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Recibe\\NuevoUsuarioDTO .cs",
-              "RelativeToolTip": "DTO\\Recibe\\NuevoUsuarioDTO .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:05:00.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DatosUsuarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Envia\\DatosUsuarioDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\Envia\\DatosUsuarioDTO.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\DTO\\Envia\\DatosUsuarioDTO.cs",
-              "RelativeToolTip": "DTO\\Envia\\DatosUsuarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:04:49.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Repositorios\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorios\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Repositorios\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "Repositorios\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAwFkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T18:56:52.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UsuarioControlador.cs",
-              "DocumentMoniker": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Controladores\\UsuarioControlador.cs",
-              "RelativeDocumentMoniker": "Controladores\\UsuarioControlador.cs",
-              "ToolTip": "C:\\Users\\arima\\OneDrive\\Desktop\\Final\\BACKEND\\Controladores\\UsuarioControlador.cs",
-              "RelativeToolTip": "Controladores\\UsuarioControlador.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T16:49:35.827Z"
             }
           ]
         }

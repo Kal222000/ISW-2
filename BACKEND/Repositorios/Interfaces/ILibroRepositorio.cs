@@ -1,5 +1,6 @@
 using System;
 using BACKEND.DTO.Envia;
+using BACKEND.DTO.Recibe;
 using System.Collections.Generic;
 
 namespace BACKEND.Repositorios.Interfaces
@@ -8,10 +9,12 @@ namespace BACKEND.Repositorios.Interfaces
     {
         List<LibroDTO> DevolverLibros();
 
-     /*   int CantidadCopiasDisponibles();
+        void Anadirfavorito(LibroDTO l);
 
-         void CrearLibro();
+        /*   int CantidadCopiasDisponibles();
 
-         void ActualizarCopia();*/
+            void CrearLibro();
+
+            void ActualizarCopia();*/
     }
 }

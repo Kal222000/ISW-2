@@ -2,13 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Controladores",
-    "\\Datos",
-    "\\Datos\\Mongo",
+    "\\DTO",
+    "\\DTO\\Envia",
     "\\Repositorios",
     "\\Repositorios\\Interfaces",
     "\\Servicios",
-    "\\Servicios\\Interfaces"
+    "\\Servicios\\Interfaces",
+    "\\Servicios\\Validaciones.cs"
   ],
-  "SelectedNode": "\\Datos\\Mongo\\MongoConexion.cs",
+  "SelectedNode": "\\Servicios\\LibroServicio.cs",
   "PreviewInSolutionExplorer": false
 }

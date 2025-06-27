@@ -28,5 +28,8 @@ namespace BACKEND.Modelos
 
         [BsonElement("copies")]
         public List<CopiaLibro> copies { get; set; } = new List<CopiaLibro>();
+
+        [BsonElement("favorito")]
+        public string favorito { get; set; }
     }
 }

@@ -25,5 +25,11 @@ namespace BACKEND.Controladores
 
             return Ok(resultado);
         }
+
+        [HttpPost("Marcar")]
+        public void Anadirfavorito([FromBody] LibroDTO l)
+        {
+            servicio.Anadirfavorito(l);
+        }
     }
 }

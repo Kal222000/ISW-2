@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using BACKEND.DTO.Envia;
+using BACKEND.DTO.Recibe;
 using BACKEND.Repositorios;
 using BACKEND.Repositorios.Interfaces;
 using BACKEND.Servicios.Interfaces;
@@ -19,6 +20,11 @@ namespace BACKEND.Servicios
         public List<LibroDTO> DevolverLibros()
         {
             return repositorio.DevolverLibros();
+        }
+
+        public void Anadirfavorito(LibroDTO l)
+        {
+            repositorio.Anadirfavorito(l); 
         }
     }
 

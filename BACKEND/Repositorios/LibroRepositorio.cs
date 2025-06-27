@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using BACKEND.DTO.Envia;
+using BACKEND.DTO.Recibe;
 using BACKEND.Repositorios.Interfaces;
 using BACKEND.Datos.Mongo;
 using System.Linq;
@@ -21,10 +22,22 @@ namespace BACKEND.Repositorios
             {
                 Id = Libro._id,
                 Titulo = Libro.titulo,
-                Autor = Libro.autor
+                Autor = Libro.autor,
+                favorito = Libro.favorito
             }).ToList();
 
             return lista;
+        }
+
+        public void Anadirfavorito(LibroDTO l)
+        {
+            if(l.favorito == "falso")
+            {
+
+            }
+            else if(l.favorito == "verdadero"){
+
+            }
         }
     }
 }
